@@ -10,9 +10,9 @@
 - 💼 Interested in internships and freelance opportunities in tech and product development.
 
 ## 📫 How to Reach Me
-- 📧 Email: [nikileshwarj@gmail.com](mailto:nikileshwarjagadeesan@gmail.com)
+- 📧 Email: [nikileshwarjagadeesan@gmail.com](mailto:nikileshwarjagadeesan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nikileshwarj](https://www.linkedin.com/in/nikileshwarj) *(update your link if needed)*
-- 🌐 Portfolio: *(optional if you have a personal website)*
+  
 
 ## 🌟 Pronouns
 - He/Him
