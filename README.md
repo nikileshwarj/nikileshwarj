@@ -11,7 +11,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [nikileshwarjagadeesan@gmail.com](mailto:nikileshwarjagadeesan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nikileshwarj](https://www.linkedin.com/in/nikileshwarj) *(update your link if needed)*
+- 💼 LinkedIn: [linkedin.com/in/nikileshwarj](https://www.linkedin.com/in/nikileshwarj) 
   
 
 ## 🌟 Pronouns
