@@ -1,7 +1,7 @@
 # Hi there, I'm Nikileshwar 👋
 
 ## 👨‍💻 About Me
-- 🎓 I'm currently a 3rd-year Computer Science and Engineering student.
+- 🎓 I'm currently pursuing my final year Computer Science and Engineering .
 - 👀 I’m passionate about software development, data science, machine learning, and entrepreneurship.
 - 💬 Always curious to explore new technologies, frameworks, and business ideas.
 
